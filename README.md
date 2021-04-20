@@ -5,7 +5,7 @@
 </h1>
 <hr/>
 <p align='justify'>
-  <b> Hello world! </b> 👋 My name is Joseane, but you can call me Josie 👧💻! I made a career change into web development in 2020. Before that, I worked at the third largest bank in South America! After, I quit my stable job looking forward to new chalenges in New Zealand where I had a great time studying and working with people from all corners of the world. 🗺️ </p>
+ <b> Hello world! </b> 👋 My name is Joseane, but you can call me Josie 👧 💻! I made a career change into web development in 2020. Before that, I worked at the third largest bank in South America! My journey into the banking sector ended because I was looking forward to new chalenges in New Zealand where I had a great time studying and working with people from all corners of the world... I love the challenge of a new goal and thats why I'm here!  🗺️ </p>
   
  <p align='justify'> I’m currently working on my skills at Reprograma. My first formal contact with programming was at Programaria and Reprograma! They're intensive courses made to women that have not had the opportunity to study technology before. The course's main purpose is to insert more female professionals into the tech industry. </p>
 <p align='center'>
