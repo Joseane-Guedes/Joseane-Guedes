@@ -32,8 +32,8 @@
   <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>   
 </p>
 
-<h1 align='center'> Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-</h1> 
+<h2 align='center'> Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+</h2> 
 <p align='center'>
   
   <a href="https://www.linkedin.com/in/joseane-guedes/">
