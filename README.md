@@ -57,5 +57,5 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/Joseane-Guedes/Joseane"></a> <em>Thank you for visiting!</em>
+  <a href="#"><img src="https://badges.pufler.dev/visits/Joseane-Guedes/Joseane"> </a> <em>Thank you for visiting!</em>
 </p>
