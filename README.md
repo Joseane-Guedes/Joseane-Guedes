@@ -1,7 +1,7 @@
 
 
 <h1 align='center'>
- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Welcome on board!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
+ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Ladies and gentlemen, welcome aboard! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
 </h1>
 <hr/>
 <p align='justify'>
@@ -57,5 +57,6 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/Joseane-Guedes/Joseane"></a> Thank you for visiting!
+  <a href="#"><img src="https://badges.pufler.dev/visits/Joseane-Guedes/Joseane-Guedes"></a> Thank you for visiting! 🎉
 </p>
+
