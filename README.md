@@ -10,10 +10,10 @@
  <p align='justify'> I’m currently working on my skills at Reprograma. My first formal contact with programming was at Programaria and Reprograma! They're intensive courses made to women that have not had the opportunity to study technology before. The course's main purpose is to insert more female professionals into the tech industry. </p>
 <p align='center'>
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
-  <b> Love to learn? Click the links to enroll: </b>  
+  <b> Love to learn? Click the links to enroll: </b>   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
   <a href='https://www.programaria.org/'> Programaria ♥️</a>
   <a href='https://reprograma.com.br/'> Reprograma</a>
- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
+
   <img src="https://reprograma.com.br/assets/img/cursos-03.png" alt="My cool logo"/>
  </p>
  
