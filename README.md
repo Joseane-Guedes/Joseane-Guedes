@@ -54,9 +54,9 @@
   </a>&nbsp;&nbsp;
   <a target="_blank" href="mailto:joseane_23@hotmail.com">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a target="_blank" href="https://twitter.com/JoseaneGuedes8?s=08">
-  <img src="	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <img src= "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
 
