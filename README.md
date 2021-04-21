@@ -15,7 +15,7 @@
   <a href='https://reprograma.com.br/'> ♥️ Reprograma</a>
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
  <br>
- <img align="up" width="700" height="500" src="https://reprograma.com.br/assets/img/cursos-03.png" alt="My cool logo"/>
+ <img align="up" width="auto" height="500" src="https://reprograma.com.br/assets/img/cursos-03.png" alt="My cool logo"/>
 </p>
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Joseane-Guedes&show_icons=true&count_private=true&theme=buefy" width="350"></a>
