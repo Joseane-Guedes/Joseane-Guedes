@@ -14,6 +14,8 @@
   <a href='https://www.programaria.org/'> Programaria ♥️</a>
   <a href='https://reprograma.com.br/'> ♥️ Reprograma</a>
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
+  <img align="up" width="auto" height="500" src="https://reprograma.com.br/assets/img/cursos-03.png" alt="My cool logo"/>
+</p>
  </p>
 <p align='center'> <strong> {The future is female coders}</strong>  </p>
 <p align='center'>
