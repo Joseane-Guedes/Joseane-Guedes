@@ -12,8 +12,10 @@
   <b> Love to learn? Click: </b>   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
   <a href='https://www.programaria.org/'> Programaria ♥️</a>
   <a href='https://reprograma.com.br/'> Reprograma</a>
-  <img align='center' src="https://reprograma.com.br/assets/img/cursos-03.png" alt="My cool logo"/>
+ 
  </p>
+ 
+ <!-- <img align='middle' src="https://reprograma.com.br/assets/img/cursos-03.png" alt="My cool logo"/> --> 
  
 <h2 align='center'> <b> Languages and Tools: 🧰 </b></h2> 
 <p align='center'>
