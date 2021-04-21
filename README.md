@@ -13,7 +13,9 @@
   <a href='https://www.programaria.org/'> Programaria ♥️</a>
   <a href='https://reprograma.com.br/'> Reprograma</a>
  <img align='middle' src="https://reprograma.com.br/assets/img/cursos-03.png" alt="My cool logo"/>
- </p>
+</p>
+
+
  
    
  
