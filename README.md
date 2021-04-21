@@ -9,7 +9,7 @@
 
 <p align='center'>
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
- <b> The future is female coders. If you want to know more information, visit: </b>  
+ <b> For more information, please visit: </b>  
  <!--<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"> -->
   <a href='https://www.programaria.org/'> Programaria ♥️</a>
   <a href='https://reprograma.com.br/'> ♥️ Reprograma</a>
