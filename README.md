@@ -5,14 +5,14 @@
 </h1>
 <hr/>
 <p align='justify'>
- <b> Hello world! </b> 👋 My name is Joseane, but you can call me Josie 👧 💻! I made a career change into web development in 2020.  I’m currently working on my skills at {Reprograma}. My first formal contact with programming was at Programaria and Reprograma! They're both intensive courses made to women that have not had the opportunity to study technology before. The course's main purpose is to insert more female professionals into the tech industry. Challenges bring personal growth and that's why I've decided to overcome the challenges of being a woman in Tech. </p>  
+ <b> Hello world! </b> 🌐 My name is Joseane, but you can call me Josie 👧 💻! I made a career change into web development in 2020.  I’m currently working on my skills at {Reprograma}. My first formal contact with programming was at Programaria and Reprograma! They're both intensive courses made to women that have not had the opportunity to study technology before. The course's main purpose is to insert more female professionals into the tech industry. Challenges bring personal growth and that's why I've decided to overcome the challenges of being a woman in Tech. </p>  
 
 <p align='center'>
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
   <b> Love to learn? Click: </b>   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
   <a href='https://www.programaria.org/'> Programaria ♥️</a>
   <a href='https://reprograma.com.br/'> Reprograma</a>
-  <img src="https://reprograma.com.br/assets/img/cursos-03.png" alt="My cool logo"/>
+  <img align='center' src="https://reprograma.com.br/assets/img/cursos-03.png" alt="My cool logo"/>
  </p>
  
 <h2 align='center'> <b> Languages and Tools: 🧰 </b></h2> 
