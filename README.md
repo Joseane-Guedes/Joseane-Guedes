@@ -4,24 +4,27 @@
  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Ladies and gentlemen, welcome aboard! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
 </h1>
 <hr/>
+<h2>Bio 👧 </h2>
 <p align='justify'>
  <b> Hello world! </b> 🌐 My name is Joseane, but you can call me Josie 👧 💻! I made a career change into web development in 2020.  I’m currently working on my skills at {Reprograma}. My first formal contact with programming was at Programaria and Reprograma! They're both intensive courses made to women that have not had the opportunity to study technology before. The course's main purpose is to insert more female professionals into the tech industry. Challenges bring personal growth and that's why I've decided to overcome the challenges of being a woman in Tech. </p>  
 
-<p align='center'>
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
+<p align='justufy'>
+ <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> -->
  <b> For more information, please visit: </b>  
  <!--<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"> -->
   <a href='https://www.programaria.org/'> Programaria ♥️</a>
   <a href='https://reprograma.com.br/'> ♥️ Reprograma</a>
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
-  <img align="up" width="auto" height="500" src="https://reprograma.com.br/assets/img/cursos-03.png" alt="My cool logo"/>
-</p>
+ <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> -->
+ </p>
+ <p>  <img align="up" width="1000" height="auto" src="https://reprograma.com.br/assets/img/cursos-03.png" alt="My cool logo"/> </p>
  </p>
 <p align='center'> <strong> {The future is female coders}</strong>  </p>
+<h2 align='center'> ⭐ GitHub Stats ⭐ </h2>
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Joseane-Guedes&show_icons=true&count_private=true&theme=buefy" width="350"></a>
+  <a href="#"> <img src="https://github-readme-stats.vercel.app/api?username=Joseane-Guedes&show_icons=true&count_private=true&theme=buefy"></a>
+  <a href="#"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=glaucia86&hide=css,java,html&theme=buefy"></a>
 </p>
-<h2 align='center'> <b> Languages and Tools: 🧰 </b></h2> 
+<h2 align='center'> <b>  Languages and Tools:  </b></h2> 
 <!--<p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Joseane-Guedes&show_icons=true&count_private=true&theme=buefy" width="350"></a>
 </p> -->
