@@ -13,12 +13,12 @@
  <b> For more information, please visit: </b>  
  <!--<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"> -->
   <a href='https://www.programaria.org/'> Programaria ♥️</a>
-  <a href='https://reprograma.com.br/'> ♥️ Reprograma</a>
- <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> -->
+  <a href='https://reprograma.com.br/'> Reprograma</a>
+ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> 
  </p>
  <p>  <img align="up" width="1000" height="auto" src="https://reprograma.com.br/assets/img/cursos-03.png" alt="My cool logo"/> </p>
  </p>
-<p align='center'> <strong> {The future is female coders}</strong>  </p>
+
 <h2 align='center'> ⭐ GitHub Stats ⭐ </h2>
 <p align='center'>
   <a href="#"> <img src="https://github-readme-stats.vercel.app/api?username=Joseane-Guedes&show_icons=true&count_private=true&theme=buefy"></a>
