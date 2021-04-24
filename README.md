@@ -6,7 +6,9 @@
 <hr/>
 <h2>Bio 👧 </h2>
 <p align='justify'>
- <b> Hello world! </b> 🌐 My name is Joseane, but you can call me Josie 👧 💻! I made a career change into web development in 2020.  I’m currently working on my skills at {Reprograma}. My first formal contact with programming was at Programaria and Reprograma! They're both intensive courses made to women that have not had the opportunity to study technology before. The course's main purpose is to insert more female professionals into the tech industry. Challenges bring personal growth and that's why I've decided to overcome the challenges of being a woman in Tech. </p>  
+ <b> Hello world! </b> 🌐 My name is Joseane, but you can call me Josie 👧 💻! I made a career change into web development in 2020.  I’m currently working on my skills at {Reprograma}. My first formal contact with programming was at Programaria and Reprograma! They're both intensive courses made to women that have not had the opportunity to study technology before. The course's main purpose is to insert more female professionals into the tech industry. </p>  
+ 
+ <p>Challenges bring personal growth and that's why I've decided to overcome the challenges of being a woman in Tech. </p>  
 
 <p align='justufy'>
  <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> -->
