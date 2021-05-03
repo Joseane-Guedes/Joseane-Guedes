@@ -23,8 +23,8 @@
 
 <h2 align='center'> ⭐ GitHub Stats ⭐ </h2>
 <p align='center'>
-  <a href="#"> <img src="https://github-readme-stats.vercel.app/api?username=Joseane-Guedes&show_icons=true&count_private=true&theme=buefy"></a>
-  <a href="#"> <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=glaucia86&hide=css,java,html&theme=buefy"></a>
+  <a href="#"> <img align="" height='250px' src="https://github-readme-stats.vercel.app/api?username=Joseane-Guedes&show_icons=true&count_private=true&theme=buefy"></a>
+  <a href="#"> <img  align="" height='250px' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=glaucia86&hide=css,java,html&theme=buefy"></a>
 </p>
 <h2 align='center'> <b> Learning: Languages and Tools 🛠️   </b></h2> 
 <!--<p align='center'>
