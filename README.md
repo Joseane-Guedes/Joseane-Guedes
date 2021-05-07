@@ -10,17 +10,26 @@
  
  <p>Challenges bring personal growth and that's why I've decided to overcome the challenges of being a woman in Tech. </p>  
  
- 👧 💻: 
+ 👧 🤝 💻 
 ```
-let joseane = {}; 
+let protoJosie = { 
+speak: function(line) { 
+console.log("Josie " + this.tipe + line); 
+} 
+}; 
+let josieStudent = Object.create(protoJosie); 
+josieStudent.tipe = "in love with"; 
+josieStudent.speak(" web development!");  
+// → "Josie in love with web development!"
+ 
+```
+<!--let joseane = {}; 
 joseane.says = function(line) { 
 console.log("Joseane says: " + line + ''); 
 };
 
 joseane.says("I'm learning every day to allow the space between where I am and where I want to be to inspire me and not terrify me.");
-// Inspired by Tracee Ellis Ross
-```
-
+// Inspired by Tracee Ellis Ross --> 
 
 <p align='justufy'>
  <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> -->
