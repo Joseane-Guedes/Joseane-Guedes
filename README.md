@@ -6,7 +6,7 @@
 <hr/>
 <h2>Bio 👧 </h2>
 <p align='justify'>
- <b> Hello world! </b> 🌐 My name is Joseane, but you can call me Josie 👧 💻! I made a career change into web development in 2020.  I’m currently working on my skills at {Reprograma}. My first formal contact with programming was at Programaria and Reprograma! They're both intensive courses made to women that have not had the opportunity to study technology before. The course's main purpose is to insert more female professionals into the tech industry. </p>  
+ <b> Hello 🌐! </b>  My name is Joseane, but you can call me Josie 👧 💻! I made a career change into web development in 2020.  I’m currently working on my skills at {Reprograma}. My first formal contact with programming was at Programaria and Reprograma! They're both intensive courses made to women that have not had the opportunity to study technology before. The course's main purpose is to insert more female professionals into the tech industry. </p>  
  
  <p>Challenges bring personal growth and that's why I've decided to overcome the challenges of being a woman in Tech. </p>  
 
@@ -23,8 +23,9 @@
 
 <h2 align='center'> ⭐ GitHub Stats ⭐ </h2>
 <p align='center'>
-  <a href="#"> <img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=Joseane-Guedes&show_icons=true&count_private=true&theme=buefy"></a>
-  <a href="#"> <img  align="" height='150px' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=glaucia86&hide=css,java,html&theme=buefy"></a>
+  <a href="#"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joseane-Guedes&show_icons=true&count_private=true&theme=buefy"></a>
+  <a href="#"> <img height="180em"  src = "https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Joseane-Guedes&layout=compact&langs_count=8&theme=buefy"></a>
+ 
 </p>
 <h2 align='center'> <b> Learning 🛠️   </b></h2> 
 <!--<p align='center'>
