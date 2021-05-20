@@ -1,12 +1,14 @@
+<!-- <img src="https://readme-typing-svg.herokuapp.com?color=7049F7&center=true&lines=Hello+Devs%2C+welcome+aboard!;My+name+is+Joseane...;but+you+can+call+me+Josie."/> -->
 
+<img src= "https://readme-typing-svg.herokuapp.com?color=7F4B9B&center=true&lines=Hello+Devs%2C+welcome+aboard!;My+name+is+Joseane...;but+you+can+call+me+Josie!;Always+learning+new+things."/>
 
-<h1 align='center'>
- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello Devs, welcome aboard! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
-</h1>
+<!--  <h1 align='center'>
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello Devs, welcome aboard! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
+</h1> -->
 <hr/>
 <h2>Bio 👧 </h2>
 <p align='justify'>
- <b> Hello 🌐! </b>  My name is Joseane, but you can call me Josie! I made a career change into web development in 2020.  I’m currently working on my skills at {Reprograma}. My first formal contact with programming was at Programaria and Reprograma! They're both intensive courses made to women that have not had the opportunity to study technology before. The course's main purpose is to insert more female professionals into the tech industry. </p>  
+ <b> Hello 🌎! </b> I made a career change into web development in 2020.  I’m currently working on my skills at {Reprograma}. My first formal contact with programming was at Programaria and Reprograma! They're both intensive courses made to women that have not had the opportunity to study technology before. The course's main purpose is to insert more female professionals into the tech industry. </p>  
  
  <p>Challenges bring personal growth and that's why I've decided to overcome the challenges of being a woman in Tech. </p>  
  
@@ -35,7 +37,7 @@ joseane.says("I'm learning every day to allow the space between where I am and w
  <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> -->
  <b> For more information, please visit: </b>  
  <!--<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"> -->
-  <a href='https://www.programaria.org/'> Programaria ♥️</a>
+  <a href='https://www.programaria.org/'>Programaria ♥️</a>
   <a href='https://reprograma.com.br/'> Reprograma</a>
  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> 
  </p>
