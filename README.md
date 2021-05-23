@@ -14,14 +14,15 @@
  
  👧 🤝 💻 
 ```
-let protoJosie = { 
-speak: function(line) { 
-console.log("Josie " + this.tipe + line); 
-} 
-}; 
-let josieStudent = Object.create(protoJosie); 
-josieStudent.tipe = "in love with"; 
-josieStudent.speak(" web development!");  
+let protoJosie = {
+    speak: function (line) {
+        console.log(this.tipe + line);
+    },
+};
+let josieStudent = Object.create(protoJosie);
+josieStudent.tipe = "Josie ";
+josieStudent.speak("in love with web development!");
+
 // → "Josie in love with web development!"
  
 ```
