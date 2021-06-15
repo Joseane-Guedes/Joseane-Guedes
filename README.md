@@ -6,7 +6,7 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello Devs, welcome aboard! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
 </h1> -->
 <hr/>
-<h2>Bio 👧 </h2>
+<h2>Bio :woman_technologist: </h2>
 <p align='justify'>
  <b> Hello 🌎! </b> I made a career change into web development in 2020.  I’m currently working on my skills at {Reprograma}. My first formal contact with programming was at Programaria and Reprograma! They're both intensive courses made to women that have not had the opportunity to study technology before. The course's main purpose is to insert more female professionals into the tech industry. </p>  
  
@@ -80,9 +80,9 @@ joseane.says("I'm learning every day to allow the space between where I am and w
   <a target="_blank" href="https://github.com/Joseane-Guedes">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
   </a>&nbsp;&nbsp;
-   <a target="_blank" href="https://www.facebook.com/joseane.guedes2016/">
+   <!-- <a target="_blank" href="https://www.facebook.com/joseane.guedes2016/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />        
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp; -->
  <!-- <a target="_blank" href="https://www.facebook.com/messages/t/1811163951/">
     <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" />        
   </a>&nbsp;&nbsp; -->
