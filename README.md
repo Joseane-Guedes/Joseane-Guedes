@@ -34,16 +34,17 @@ console.log("Joseane says: " + line + '');
 joseane.says("I'm learning every day to allow the space between where I am and where I want to be to inspire me and not terrify me.");
 // Inspired by Tracee Ellis Ross --> 
 
+<!-- 
 <p align='justufy'>
  <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> -->
- <b> For more information, please visit: </b>  
+  <!--  <b> For more information, please visit: </b>  
  <!--<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"> -->
-  <a href='https://www.programaria.org/'>Programaria ♥️</a>
+   <!--  <a href='https://www.programaria.org/'>Programaria ♥️</a> 
   <a href='https://reprograma.com.br/'> Reprograma</a>
  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> 
  </p>
  <p>  <img align="up" width="1000" height="auto" src="https://reprograma.com.br/assets/img/cursos-03.png" alt="My cool logo"/> </p>
- </p>
+  </p>  -->
 
 <h2 align='center'> ⭐ GitHub Stats ⭐ </h2>
 <p align='center'>
@@ -51,9 +52,7 @@ joseane.says("I'm learning every day to allow the space between where I am and w
  <a href="#"> <img height="150em"  src = "https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Joseane-Guedes&layout=compact&langs_count=8&theme=buefy"></a>
 </p>
 <h2 align='center'> <b> Learning 🛠️   </b></h2> 
-<!--<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Joseane-Guedes&show_icons=true&count_private=true&theme=buefy" width="350"></a>
-</p> -->
+
 <p align='center'>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> &nbsp;&nbsp;
@@ -84,12 +83,6 @@ joseane.says("I'm learning every day to allow the space between where I am and w
   <a target="_blank" href="https://github.com/Joseane-Guedes">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
   </a>&nbsp;&nbsp;
-   <!-- <a target="_blank" href="https://www.facebook.com/joseane.guedes2016/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />        
-  </a>&nbsp;&nbsp; -->
- <!-- <a target="_blank" href="https://www.facebook.com/messages/t/1811163951/">
-    <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" />        
-  </a>&nbsp;&nbsp; -->
   <a target="_blank" href="mailto:joseane_23@hotmail.com">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>&nbsp;&nbsp;
