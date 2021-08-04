@@ -1,12 +1,12 @@
 <!-- <img src="https://readme-typing-svg.herokuapp.com?color=7049F7&center=true&lines=Hello+Devs%2C+welcome+aboard!;My+name+is+Joseane...;but+you+can+call+me+Josie."/> -->
-
+<h1 align='center' >
 <img src= "https://readme-typing-svg.herokuapp.com?color=7F4B9B&lines=Hello+Devs!++Welcome+aboard.;My+name+is+Joseane...;but+you+can+call+me+Josie;Always+learning+new+things%7C"/>
-
+</h1>
 <!--  <h1 align='center'>
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello Devs, welcome aboard! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
 </h1> -->
 <hr/>
-<h2>Bio :woman_technologist: </h2>
+<h2 align='center'>Bio :woman_technologist: </h2>
 <p align='justify'>
  <b> Hello 🌎! </b> I made a career change into web development in 2020.  I’m currently working on my skills at Rocketseat :rocket:. My first formal contact with programming was at Programaria and Reprograma! They're both intensive courses made to women that have not had the opportunity to study technology before. The course's main purpose is to insert more female professionals into the tech industry. </p>  
  
