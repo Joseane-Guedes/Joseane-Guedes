@@ -8,7 +8,12 @@
 <hr/>
 <h2 align='center'>Bio :woman_technologist: </h2>
 <p align='justify'>
- <b> Hello 🌎! </b> I made a career change into web development in 2020.  I’m currently working on my skills at Rocketseat :rocket:. My first formal contact with programming was at Programaria and Reprograma! They're both intensive courses made to women that have not had the opportunity to study technology before. The course's main purpose is to insert more female professionals into the tech industry. </p>  
+
+I made a career change into web development in 2020. As a scholarship student, I’m currently working on my skills at <a href='https://rocketseat.com.br/'> Rocketseat</a> :rocket:. </p>  
+ 
+My first formal contact with programming was at Programaria and Reprograma! They're both intensive courses made to women that have not had the opportunity to study technology before. The course's main purpose is to insert more female professionals into the tech industry. 
+
+</p>  
  
  <p>Challenges bring personal growth and that's why I've decided to overcome the challenges of being a woman in Tech. </p>  
  
