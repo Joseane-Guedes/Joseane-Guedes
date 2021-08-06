@@ -6,10 +6,10 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello Devs, welcome aboard! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
 </h1> -->
 <hr/>
-<h2 align='center'>Bio :woman_technologist: </h2>
+<h2 align='center'>Bio 👩‍🚀   </h2>
 <p align='justify'>
 
-I made a career change into web development in 2020. As a scholarship student, I’m currently working on my skills at <a href='https://rocketseat.com.br/'> Rocketseat</a> :rocket:. </p>  
+I made a career change into web development in 2020. As a scholarship student, I’m currently working on my skills at <a href='https://rocketseat.com.br/'> Rocketseat!</a> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> </p> 
  
 My first formal contact with programming was at  <a href='https://www.programaria.org/'>Programaria</a> and  <a href='https://reprograma.com.br/'> Reprograma</a>! They're both intensive courses made to women that have not had the opportunity to study technology before. The course's main purpose is to insert more female professionals into the tech industry. 
 
