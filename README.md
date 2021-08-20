@@ -6,7 +6,7 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello Devs, welcome aboard! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
 </h1> -->
 <hr/>
-<h2 align='center'>Bio 👩‍🚀   </h2>
+<h2 align='center'>  👩‍🚀 Bio  </h2>
 <p align='justify'> Hello, 🌎! I made a career change into web development in 2020. As a scholarship student, I’m currently working on my skills at <a href='https://rocketseat.com.br/'> Rocketseat!</a> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> </p> 
  
 <p align='justify'> My first formal contact with programming was at  <a href='https://www.programaria.org/'>Programaria</a> and  <a href='https://reprograma.com.br/'> Reprograma</a>! They're both intensive courses made for women that have not had the opportunity to study technology before. The course's main purpose is to insert more female professionals into the tech industry. 
@@ -54,7 +54,7 @@ joseane.says("I'm learning every day to allow the space between where I am and w
  <a href="#"> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Joseane-Guedes&show_icons=true&count_private=true&theme=buefy"></a>
  <a href="#"> <img height="150em"  src = "https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Joseane-Guedes&layout=compact&langs_count=8&theme=buefy"></a>
 </p>
-<h2 align='center'> <b> Learning 🛠️   </b></h2> 
+<h2 align='center'> <b> 🛠️ Learning    </b></h2> 
 
 <p align='center'>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> &nbsp;&nbsp;
@@ -73,7 +73,7 @@ joseane.says("I'm learning every day to allow the space between where I am and w
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/> &nbsp;&nbsp; 
  </p>
 
-<h2 align='center'> Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+<h2 align='center'> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> Connect with me 
 </h2> 
 <p align='center'>
   
