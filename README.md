@@ -7,7 +7,7 @@
 </h1> -->
 <hr/>
 <h2 align='center'>  👩‍🚀 Bio  </h2>
-<p align='justify'> Hello 🌏! Welcome to my profile! My name is Joseane, but you can call me Josie. I made a career change into web development in 2020. As a scholarship student, I’m currently working on my skills at <a href='https://github.com/WoMakersCode'> WoMakersCode </a> <span>and</span>  <a href='https://rocketseat.com.br/'> Rocketseat </a> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> </p> 
+<p align='justify'> Hello 🌏! Welcome to my profile! My name is Joseane, but you can call me Josie. I made a career change into web development in Dec 2020. As a scholarship student, I’m currently working on my skills at <a href='https://github.com/WoMakersCode'> WoMakersCode </a> <span>and</span>  <a href='https://rocketseat.com.br/'> Rocketseat </a> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> </p> 
  
 <p align='justify'> My first formal contact with programming was at  <a href='https://www.programaria.org/'>Programaria</a> and  <a href='https://reprograma.com.br/'> Reprograma</a>! They're both intensive courses made for women that have not had the opportunity to study technology before. The course's main purpose is to insert more female professionals into the tech industry. 
 </p>  
