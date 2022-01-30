@@ -7,9 +7,9 @@
 </h1> -->
 <hr/>
 <h2 align='center'>  👩‍🚀 Bio  </h2>
-<p align='justify'> Hello 🌏! Welcome to my profile! My name is Joseane, but you can call me Josie. I made a career change into web development because I firmly believe in the power of technology to make human lives better. The reach and impact that coding has is extraordinary, even our fridge is full of software!😁</p> 
+<p align='justify'> Hello 🌏! Welcome to my profile! My name is Joseane, but you can call me Josie. I made a career change into web development because I firmly believe in the power of technology to make human lives better. The reach and impact that coding has are extraordinary, even our fridge is full of software!😁</p> 
  
-<p align='justify'> I'm a continuous learning oriented professional with a positive attitude. My previous work experience in the financial services sector in Brazil and international experience in volunteering programs has allowed me to practice important teamwork skills, such as communication, problem-solving, analytical abilities, time management and collaboration.</p> 
+<p align='justify'> I'm a continuous learning-oriented professional with a positive attitude. My previous work experience in the financial services sector in Brazil and international experience in volunteering programs has allowed me to practice important teamwork skills, such as communication, problem-solving, analytical abilities, time management and collaboration.</p> 
  
  
 <p align='justify'> My main technical skills include HTML5, CSS3, JavaScript, Typescript, React.js, Next.js, Node.js, Material UI, ChakraUI, Git, GitHub, and loading...</p> 
