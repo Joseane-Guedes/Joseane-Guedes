@@ -75,7 +75,7 @@ joseane.says("I'm learning every day to allow the space between where I am and w
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/> &nbsp;&nbsp; 
  </p>
 
-<h2 align='center'> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> Love Tech, lets chat!🤓
+<h2 align='center'> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> Love Tech? Let's chat!🤓
 </h2> 
 <p align='center'>
   
