@@ -7,7 +7,7 @@
 </h1> -->
 <hr/>
 <h2 align='center'>  👩‍🚀 Bio  </h2>
-<p align='justify'> Hello 🌏! Welcome to my profile! My name is Joseane, but you can call me Josie. I firmly believe in the power of technology to make human lives better. The impact and reach of coding is extraordinary and there's nothing else so empowering!/p> 
+<p align='justify'> Hello 🌏! Welcome to my profile! My name is Joseane, but you can call me Josie. I firmly believe in the power of technology to make human lives better. The impact and reach of coding is extraordinary and there's nothing else so empowering!</p> 
  
 <!-- <p align='justify'> I'm a continuous learning-oriented professional with a positive attitude. My previous work experience in the financial services sector in Brazil and international experience in volunteering programs has allowed me to practice important teamwork skills, such as communication, problem-solving, analytical abilities, time management and collaboration.</p> -->
  
