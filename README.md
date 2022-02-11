@@ -24,9 +24,9 @@ let protoJosie = {
         console.log(this.tipe + line);
     },
 };
-let josieStudent = Object.create(protoJosie);
-josieStudent.tipe = "Josie ";
-josieStudent.speak("in love with web development!");
+let student = Object.create(protoJosie);
+student.tipe = "Josie ";
+student.speak("in love with web development!");
 
 // → "Josie in love with web development!"
  
