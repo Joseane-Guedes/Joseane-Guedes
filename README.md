@@ -7,12 +7,12 @@
 </h1> -->
 <hr/>
 <h2 align='center'>  👩‍🚀 Bio  </h2>
-<p align='justify'> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello 🌏! Welcome to my profile! My name is Joseane, but you can call me Josie. I made a career change into web development because I firmly believe in the power of technology to make human lives better. The impact and reach of coding is extraordinary, and there's nothing else so empowering!</p> 
+<p align='justify'> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hello 🌏! Welcome to my profile! My name is Joseane, but you can call me Josie. I made a career change into web development because I firmly believe in the power of technology to make human lives better. The impact and reach of coding is extraordinary, and there's nothing else so empowering!</p> 
  
 <!-- <p align='justify'> I'm a continuous learning-oriented professional with a positive attitude. My previous work experience in the financial services sector in Brazil and international experience in volunteering programs has allowed me to practice important teamwork skills, such as communication, problem-solving, analytical abilities, time management and collaboration.</p> -->
  
  
-<p align='justify'> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My main technical skills include HTML5, CSS3, JavaScript, Typescript, React.js, Next.js, Node.js, Material UI, ChakraUI, Git, GitHub, and loading...</p> 
+<p align='justify'> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My main technical skills include HTML5, CSS3, JavaScript, Typescript, React.js, Next.js, Node.js, Material UI, ChakraUI, Git, GitHub, and loading...</p> 
  
  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Challenges bring personal growth, and that's why I've decided to overcome the challenge of being a woman in Tech. </p>  
   
