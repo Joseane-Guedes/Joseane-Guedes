@@ -97,6 +97,6 @@ joseane.says("I'm learning every day to allow the space between where I am and w
 </p>
 
 <p align='center'>
-  <a href="#"> <img src="https://badges.pufler.dev/visits/Joseane-Guedes/Joseane-Guedes"> </a> Thank you for visiting! 🎉
+  <a href="#">Thank you for visiting! 🎉</a> 
 </p>
 
