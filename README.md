@@ -101,6 +101,10 @@ joseane.says("I'm learning every day to allow the space between where I am and w
   </a>&nbsp;&nbsp;
 </p>
 
+<h1 align='center' >
+<img src= "https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8B2AF7&width=435&lines=It+does+not+matter+how+slowly+you+go;as+long+as+you+do+not+stop+%F0%9F%90%BE%F0%9F%90%BE%F0%9F%90%BE%F0%9F%90%BE%F0%9F%90%BE" alt="Typing SVG" />
+</h1>
+
 <p align='center'>
  Thank you for visiting! 🎉
 </p>
