@@ -7,7 +7,7 @@
 </h1> -->
 <hr/>
 <h2 align='center'>  👩‍🚀 Bio  </h2>
-<p > Hello 🌏! Welcome to my profile! My name is Joseane, but you can call me Josie. I made a career change into web development because I firmly believe in the power of technology to make human lives better. The impact and reach of coding is extraordinary. Writing code is more than typing in a text editor, it can change the world and I want to be a part of it!</p> 
+<p >Hello 🌏! Welcome to my profile! My name is Joseane, but you can call me Josie. I made a career change into web development because I firmly believe in the power of technology to make human lives better. The impact and reach of coding are extraordinary. Writing code is more than typing in a text editor; it can change the world, and I want to be a part of it!!</p> 
  
 <!-- <p align='justify'> I'm a continuous learning-oriented professional with a positive attitude. My previous work experience in the financial services sector in Brazil and international experience in volunteering programs has allowed me to practice important teamwork skills, such as communication, problem-solving, analytical abilities, time management and collaboration.</p> -->
  
