@@ -13,10 +13,10 @@
  
  
 <p> My main technical skills include HTML5, CSS3, JavaScript, Typescript, React.js, Next.js, Node.js, Material UI, ChakraUI, Git, GitHub, and loading...</p> 
- 
- <p>Challenges bring personal growth, and that's why I've decided to overcome the challenge of being a woman in Tech. ❤️ </p>  
- 
+
 <p>Learning to code is a journey, not a destination. You'll likely encounter many challenges along the way, but by staying persistent, staying curious, and staying open to learning, you can become a skilled and confident coder.</p>  
+
+ <p>Challenges bring personal growth, and that's why I've decided to overcome the challenge of being a woman in Tech. ❤️ </p> 
   
  <h2 align='center'> 👧 🤝 💻   </h2>
  
