@@ -14,7 +14,7 @@
  
 <p>With a relentless commitment to learning, I'm always actively studying and expanding my knowledge in HTML5, CSS3, JavaScript, Typescript, React.js, Node.js, MaterialUI, ChakraUI, Software Testing, Unit Tests, Git, GitHub, Jenkins, Jira, Coding Practices, graphQL, MongoDB and Node.js.</p> 
 
-<p>Learning to code is a journey, not a destination. You'll likely encounter many challenges along the way, but by staying persistent, staying curious, and staying open to learning, you can become a skilled and confident coder.</p>  
+<p>Learning to code is a journey, not a destination. Learning to code requires persistence and a willingness to embrace setbacks as opportunities for growth</p>  
 
  <p>Challenges bring personal growth, and that's why I've decided to overcome the challenge of being a woman in Tech. ❤️ </p> 
   
