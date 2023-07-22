@@ -89,9 +89,9 @@ joseane.says("I'm learning every day to allow the space between where I am and w
   <a target="_blank" href="https://www.linkedin.com/in/joseane-guedes/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a target="_blank" href="https://www.instagram.com/josie_codes/">
+<!--   <a target="_blank" href="https://www.instagram.com/josie_codes/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp; -->
   <a target="_blank" href="https://github.com/Joseane-Guedes">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
   </a>&nbsp;&nbsp;
