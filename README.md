@@ -12,7 +12,7 @@
 <!-- <p align='justify'> I'm a continuous learning-oriented professional with a positive attitude. My previous work experience in the financial services sector in Brazil and international experience in volunteering programs has allowed me to practice important teamwork skills, such as communication, problem-solving, analytical abilities, time management and collaboration.</p> -->
  
  
-<p>I'm always actively studying and expanding my knowledge in HTML5, CSS3, JavaScript, Typescript, React.js, Node.js, MaterialUI, ChakraUI, Software Testing, Unit Tests, Git, GitHub, Jenkins, Jira, Coding Practices, graphQL, MongoDB and Node.js.</p> 
+<p>I'm always actively studying and expanding my knowledge in HTML5, CSS3, JavaScript, Typescript, React.js, Node.js, MaterialUI, ChakraUI, Software Testing, Unit Tests, e2e, Git, GitHub, Jenkins, Jira, Coding Practices, graphQL, MongoDB and Node.js.</p> 
 
 <p>Learning to code is a journey, not a destination. Learning to code requires persistence and a willingness to embrace setbacks as opportunities for growth</p>  
 
