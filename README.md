@@ -1,6 +1,6 @@
 <!-- <img src="https://readme-typing-svg.herokuapp.com?color=7049F7&center=true&lines=Hello+Devs%2C+welcome+aboard!;My+name+is+Joseane...;but+you+can+call+me+Josie."/> -->
 <h1 align='center' >
-<img src= "https://readme-typing-svg.herokuapp.com?color=7F4B9B&lines=Hello+Devs!++Welcome+aboard.;My+name+is+Joseane...;but+you+can+call+me+Josie;Always+learning+new+things%7C"/>
+<img src= "https://readme-typing-svg.herokuapp.com?color=7F4B9B&lines=Hello+World!++Welcome+aboard.;My+name+is+Joseane...;but+you+can+call+me+Josie;Always+learning+new+things%7C"/>
 </h1>
 <!--  <h1 align='center'>
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello Devs, welcome aboard! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
