@@ -18,7 +18,7 @@
 
  <p>Challenges bring personal growth, and that's why I've decided to overcome the challenge of being a woman in Tech. ❤️ </p> 
   
- <h2 align='center'> 👧 🤝 💻   </h2>
+ <h2 align='center'> 👧🏽 🤝 💻   </h2>
  
 ```
 let protoJosie = {
