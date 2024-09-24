@@ -1,10 +1,4 @@
-<!-- <img src="https://readme-typing-svg.herokuapp.com?color=7049F7&center=true&lines=Hello+Devs%2C+welcome+aboard!;My+name+is+Joseane...;but+you+can+call+me+Josie."/> -->
-<h1 align='center' >
-<img src= "https://readme-typing-svg.herokuapp.com?color=7F4B9B&lines=Hello+World!++Welcome+aboard.;My+name+is+Joseane...;but+you+can+call+me+Josie;Always+learning+new+things%7C"/>
-</h1>
-<!--  <h1 align='center'>
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello Devs, welcome aboard! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
-</h1> -->
+
 <hr/>
 <h2 align='center'>  👩‍🚀 Bio  </h2>
 <p >Hello 🌏! Welcome to my profile! My name is Joseane, but you can call me Josie. I made a career change into web development with a passion for using technology to improve lives. Coding has the power to change the world, and I'm eager to contribute to this global transformation.</p> 
